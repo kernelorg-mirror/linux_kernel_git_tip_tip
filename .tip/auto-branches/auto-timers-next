@@ -1,3 +1,4 @@
+timers/clocksource
 timers/core
 timers/nohz
 timers/urgent
