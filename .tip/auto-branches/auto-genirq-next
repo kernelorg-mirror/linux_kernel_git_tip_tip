@@ -1,3 +1,4 @@
 irq/core
+irq/drivers
 irq/msi
 irq/urgent
