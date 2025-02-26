@@ -4,6 +4,7 @@
 locking/atomics
 locking/core
 locking/debug
+locking/futex
 locking/header
 locking/kcsan
 locking/nmi
