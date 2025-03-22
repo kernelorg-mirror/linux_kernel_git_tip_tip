@@ -25,6 +25,7 @@ x86/headers
 x86/hyperv
 x86/irq
 x86/kaslr
+x86/kconfig
 x86/kdump
 x86/microcode
 x86/misc
