@@ -30,6 +30,7 @@ x86/kdump
 x86/microcode
 x86/misc
 x86/mm
+x86/msr
 x86/mtrr
 x86/nmi
 x86/paravirt
