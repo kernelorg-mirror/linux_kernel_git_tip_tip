@@ -1,3 +1,4 @@
+irq/cleanups
 irq/core
 irq/drivers
 irq/msi
