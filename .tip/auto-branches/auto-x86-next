@@ -17,6 +17,7 @@ x86/cc
 x86/cleanups
 x86/core
 x86/cpu
+x86/debug
 x86/entry
 x86/fpu
 x86/fred
