@@ -6,6 +6,7 @@ core/headers
 core/kprobes
 core/mm
 core/rcu
+core/rseq
 core/urgent
 core/build
 core/static_call
